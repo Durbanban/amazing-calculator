@@ -18,15 +18,18 @@ public class IncredibleCalculator {
 
         switch (opcion) {
             case 1: //Sumar. Debes leer dos numeros enteros de entrada e imprimir su suma
-                    break;
+                public static int suma(int a, int b) {
+                    return a + b;
+                }
+            	break;
             case 2: // Restar. Debes leer dos números enteros de entrada e imprimir su resta
-                    break;
+            	break;
             case 3: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su producto.
-                    break;
+            	break;
             case 4: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su división entera.
-                    break;
+            	break;
             case 5: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su división con decimales.
-                    break;
+            	break;
 
         }
 
