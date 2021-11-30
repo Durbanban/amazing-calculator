@@ -12,6 +12,7 @@ public class IncredibleCalculator {
         System.out.println("3. Multiplicar");
         System.out.println("4. Dividir (división entera)");
         System.out.println("5. Dividir (división con decimales)");
+        System.out.println("6. Hacer porcentajes");
 
         int opcion = leerEnteroEntrada();
 
